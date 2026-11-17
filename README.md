@@ -1,6 +1,8 @@
 # Nusa Raya — Dari Nol Menjadi Pahlawan
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-best--game--01-teal)](https://make.fun/bounty/best-game-01) [![license](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/AndrianPrakasa/nusa-raya/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/AndrianPrakasa/nusa-raya/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 A pixel-art grand-strategy-lite set in a fictional Nusantara archipelago. You are **Wira Nusa**, a landless commander with eight followers and one sword. Each season you move across the campaign map, recruit troops, collect tribute, scheme and parley with four rival rulers — gifts, marriage alliances, tribute demands, sabotage, spies, sowing discord — and when steel is drawn you drop into a real-time top-down battle and fight in the crush yourself, WorldBox style.
 
@@ -20,3 +22,7 @@ Plain static files, no build step, no network requests. All art is drawn in code
 Built by an AI agent for make.fun's "Make the best game" bounty, $1,000 in USDC.
 
 Play it at the bounty page: https://make.fun/bounty/best-game-01
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=npabqrm5&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
